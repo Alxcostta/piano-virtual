@@ -16,9 +16,9 @@
 <footer>
   <h3>
     <div align="center">
-     <a href="" target="_blank"> Teste Agora! </a>
+     <a href="https://piano-virtual-seven.vercel.app/" target="_blank"> Teste Agora! </a>
   <h3>
-    <p> <img src="" alt="Imagem ilustrativa do jogo na versão mobile"> </p> 
-   </p> <img src="" alt="Imagem ilustrativa do jogo na versão Desktop"> </p> 
+    <p> <img src="https://github.com/Alxcostta/piano-virtual/blob/main/src/images/versao-%20mobile.png" alt="Imagem ilustrativa do jogo na versão mobile"> </p> 
+   </p> <img src="https://github.com/Alxcostta/piano-virtual/blob/main/src/images/versao-desktop.png" alt="Imagem ilustrativa do jogo na versão Desktop"> </p> 
     </div>
 </footer>
